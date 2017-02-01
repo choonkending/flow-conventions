@@ -1,0 +1,22 @@
+{
+  "name": "flow-conventions",
+  "version": "0.0.1",
+  "description": "A collection of flow conventions I am experimenting with",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choonkending/flow-conventions.git"
+  },
+  "author": "Choon Ken Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choonkending/flow-conventions/issues"
+  },
+  "homepage": "https://github.com/choonkending/flow-conventions#readme",
+  "devDependencies": {
+    "flow-bin": "^0.38.0"
+  }
+}
